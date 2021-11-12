@@ -40,3 +40,18 @@ In this phase, close out the project.
 * Pass off all remaining deliverables and get stakeholder approval.  
 * Document the lessons you and your team learned during the project.  
 * Reflect on ways to improve in the future.
+
+
+## Lean and Six Sigma methodologies
+
+**Lean.** The main principle in Lean methodology is the removal of waste within an operation. By optimizing process steps and eliminating waste, only value is added at each phase of production. Implement Lean project management when you want to use limited resources, reduce waste, and streamline processes to gain maximum benefits.
+
+**5S helps you boost performance.**
+1. Sort: Remove all items not needed for current production operations and leave only the bare essentials. 
+2. Set in order: Arrange needed items so that they are easy to use. Label items so that anyone can find them or put them away. 
+3. Shine: Keep everything in the correct place. Clean your workspace every day.
+4. Standardize: Perform the process in the same way every time. 
+5. Sustain: Make a habit of maintaining correct procedures and instill this discipline in your team.
+
+The final concept of Lean uses a Kanban scheduling system to manage production. Kanban board is a visualization tool that gives the team a visual display to identify what needs to be done and when.
+![Kanban board](img/kanban_board.png)
