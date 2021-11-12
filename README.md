@@ -56,3 +56,21 @@ In this phase, close out the project.
 The final concept of Lean uses a **Kanban** scheduling system to manage production. **Kanban** board is a visualization tool that gives the team a visual display to identify what needs to be done and when.
 
 <img src="kanban_board_3.png" alt="Kanban board" width="900"/>
+
+<details>
+  <summary>Six Sigma - soft-skill bullshit</summary>
+  
+  `Six Sigma` is a methodology used to reduce variations by ensuring that quality processes are followed every time. The term “Six Sigma” originates from statistics and generally means that items or processes should have 99.9996% quality.
+  
+  The seven key principles of Six Sigma are:
+  1. Always focus on the customer.
+  2. Identify and understand how the work gets done. Understand how work really happens.
+  3. Make your processes flow smoothly.
+  4. Reduce waste and concentrate on value.
+  5. Stop defects by removing variation.
+  6. Involve and collaborate with your team.
+  7. Approach improvement activity in a systematic way.
+  
+  The largest difference between these methodologies is that Lean streamlines processes while Six Sigma reduces variation in products by building in quality from the beginning and inspecting products to ensure quality standards are met.
+  
+</details>
