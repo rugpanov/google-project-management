@@ -54,4 +54,4 @@ In this phase, close out the project.
 5. Sustain: Make a habit of maintaining correct procedures and instill this discipline in your team.
 
 The final concept of Lean uses a Kanban scheduling system to manage production. Kanban board is a visualization tool that gives the team a visual display to identify what needs to be done and when.
-![Kanban board](img/kanban_board.png)
+![Kanban board](kanban_board.png)
