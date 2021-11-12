@@ -55,4 +55,4 @@ In this phase, close out the project.
 
 The final concept of Lean uses a Kanban scheduling system to manage production. Kanban board is a visualization tool that gives the team a visual display to identify what needs to be done and when.
 
-<img src="kanban_board_2.png" alt="Kanban board" width="900"/>
+<img src="kanban_board_3.png" alt="Kanban board" width="900"/>
