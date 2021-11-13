@@ -93,3 +93,13 @@ In this phase, close out the project.
 **Classic structure.** The Classic organizational structure is a top-down hierarchy system, where a Chief Executive Officer (CEO) has direct authority over several department managers. The department manager has direct authority over several other sections of employees. This system requires communication both up and down the ladder. In a Classic structure, authority comes from the top and filters to the bottom. Classic organizations are also referred to as functional organizations because the organization is divided into departments based on function. 
 
 **Matrix structure.** The Matrix structure differs from the Classic structure in that the employees have two or more managers. In Matrix structures, you still have people above you, but you also have people in adjacent departments with whom you will need to communicate on your work progress. Functional areas tend to cross paths more frequently, and depending on the nature of the work, the responsible manager for each area has the most authority. Within Matrix organizations, some project managers may have the same level of authority as the functional managers and operate more directly.
+
+### Project Management Office
+A **Project Management Office**, or **PMO**, is a group within an organization that defines, sets, and helps maintain project management standards and processes throughout that organization. PMOs support their organizations in managing large numbers of projects and help keep all employees working in the same direction towards the organization’s goals. 
+
+**Key purposes of a PMO**
+* Strategic planning and governance
+* Implementing project management best practices
+* Establishing common project culture
+* Resource management
+* Creating project documentation, archives, and tools
