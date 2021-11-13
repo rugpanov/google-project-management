@@ -112,3 +112,12 @@ A **Project Management Office**, or **PMO**, is a group within an organization t
 * Create a sense of ownership and urgency - customers should see why they should start using new project
 * Figure out right combination of skills and personalities for people in your team
 * Effective communication 
+
+### Governance
+**Governance** in business is the management framework within which decisions are made and accountability and responsibility are determined. In simple terms, governance is understanding who is in charge.
+
+## Corporate governance
+**Corporate governance** - set of standards and practices that direct and control organization's actions. Corporate governance affects every part of an organization, including action plans, internal and external controls, and performance measurements.
+
+## Project governance
+**Project governance** is the framework for how project decisions are made. Project governance helps keep projects running smoothly, on time, and within budget. It tells you what activities an organization does and who is responsible for those activities. Project governance covers policies, regulations, functions, processes, procedures, and responsibilities. 
