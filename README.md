@@ -103,3 +103,12 @@ A **Project Management Office**, or **PMO**, is a group within an organization t
 * Establishing common project culture
 * Resource management
 * Creating project documentation, archives, and tools
+
+
+**Organizational culture** refers to the values employees share and an organization’s values, mission, history, and more. In other words, organizational culture can be thought of as a company's personality.
+
+**Change management** is the process of delivering your completed project and getting other people in the organization to adopt it. 
+**Core concepts of change management:**
+* Create a sense of ownership and urgency - customers should see why they should start using new project
+* Figure out right combination of skills and personalities for people in your team
+* Effective communication 
