@@ -104,6 +104,18 @@ A **Project Management Office**, or **PMO**, is a group within an organization t
 * Resource management
 * Creating project documentation, archives, and tools
 
+### Governance
+**Governance** in business is the management framework within which decisions are made and accountability and responsibility are determined. In simple terms, governance is understanding who is in charge.
+
+## Corporate governance
+**Corporate governance** - set of standards and practices that direct and control organization's actions. Corporate governance affects every part of an organization, including action plans, internal and external controls, and performance measurements.
+
+## Project governance
+**Project governance** is the framework for how project decisions are made. Project governance helps keep projects running smoothly, on time, and within budget. It tells you what activities an organization does and who is responsible for those activities. Project governance covers policies, regulations, functions, processes, procedures, and responsibilities. 
+
+### Glossary
+
+**Cross-functional team**: Team members who have different skill sets and may even work in different departments but are all working towards the successful completion of a project
 
 **Organizational culture** refers to the values employees share and an organization’s values, mission, history, and more. In other words, organizational culture can be thought of as a company's personality.
 
@@ -113,11 +125,4 @@ A **Project Management Office**, or **PMO**, is a group within an organization t
 * Figure out right combination of skills and personalities for people in your team
 * Effective communication 
 
-### Governance
-**Governance** in business is the management framework within which decisions are made and accountability and responsibility are determined. In simple terms, governance is understanding who is in charge.
-
-## Corporate governance
-**Corporate governance** - set of standards and practices that direct and control organization's actions. Corporate governance affects every part of an organization, including action plans, internal and external controls, and performance measurements.
-
-## Project governance
-**Project governance** is the framework for how project decisions are made. Project governance helps keep projects running smoothly, on time, and within budget. It tells you what activities an organization does and who is responsible for those activities. Project governance covers policies, regulations, functions, processes, procedures, and responsibilities. 
+**Stakeholder**: People who are interested in and affected by the project’s completion and success
