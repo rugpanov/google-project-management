@@ -1,8 +1,5 @@
 # Google Project Management Course // first
 
-Table of Contents
-=================
-
    * [The project life cycle](#the-project-life-cycle)
       * [Initiate the project](#initiate-the-project)
       * [Make a plan](#make-a-plan)
