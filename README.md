@@ -1,4 +1,5 @@
-# Google Project Management Course // first
+# Foundations of Project Management
+[Link](https://www.coursera.org/learn/project-management-foundations) on Coursera
 
    * [The project life cycle](#the-project-life-cycle)
       * [Initiate the project](#initiate-the-project)
