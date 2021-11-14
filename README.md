@@ -11,10 +11,10 @@ Table of Contents
    * [Project management approaches](#project-management-approaches)
    * [Organizational structures](#organizational-structures)
       * [Project Management Office](#project-management-office)
-      * [Governance](#governance)
-   * [Corporate governance](#corporate-governance)
-   * [Project governance](#project-governance)
-      * [Glossary](#glossary)
+   * [Governance](#governance)
+      * [Corporate governance](#corporate-governance)
+      * [Project governance](#project-governance)
+   * [Glossary](#glossary)
 
 ## The project life cycle
 
@@ -122,16 +122,16 @@ A **Project Management Office**, or **PMO**, is a group within an organization t
 * Resource management
 * Creating project documentation, archives, and tools
 
-### Governance
+## Governance
 **Governance** in business is the management framework within which decisions are made and accountability and responsibility are determined. In simple terms, governance is understanding who is in charge.
 
-## Corporate governance
+### Corporate governance
 **Corporate governance** - set of standards and practices that direct and control organization's actions. Corporate governance affects every part of an organization, including action plans, internal and external controls, and performance measurements.
 
-## Project governance
+### Project governance
 **Project governance** is the framework for how project decisions are made. Project governance helps keep projects running smoothly, on time, and within budget. It tells you what activities an organization does and who is responsible for those activities. Project governance covers policies, regulations, functions, processes, procedures, and responsibilities. 
 
-### Glossary
+## Glossary
 
 **Cross-functional team**: Team members who have different skill sets and may even work in different departments but are all working towards the successful completion of a project
 
