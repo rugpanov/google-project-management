@@ -168,3 +168,4 @@ A **Project Management Office**, or **PMO**, is a group within an organization t
 **Stakeholder**: People who are interested in and affected by the project’s completion and success
 
 **Cost-benefit analysis** is the process of adding up the expected value of a project—the benefits—and comparing them to the dollar costs.
+**Return on investment (ROI) = (G - C) / C**, G - the financial gains you expect from the project, and C - the upfront and ongoing costs of your investment in the project.
