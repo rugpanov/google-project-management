@@ -129,6 +129,30 @@ A **Project Management Office**, or **PMO**, is a group within an organization t
 ### Project governance
 **Project governance** is the framework for how project decisions are made. Project governance helps keep projects running smoothly, on time, and within budget. It tells you what activities an organization does and who is responsible for those activities. Project governance covers policies, regulations, functions, processes, procedures, and responsibilities. 
 
+## Initiate phase
+### Questions for a cost-benefit analysis
+**To determine the benefits of a project:**
+* What value will this project create? 
+* How much money could this project save our organization? 
+* How much money will it bring in from existing customers?
+* How much time will it save? 
+* How will it improve the customer experience?
+
+**To determine the costs of a project:**
+* How much time will people have to spend on this project?
+* What are the one-time costs?
+* Are there any ongoing costs?
+* What about long-term costs? 
+
+**To determine intangible benefits:**
+* **Customer satisfaction.** Will the project increase customer retention, causing them to spend more on the company’s products or services? 
+* **Employee satisfaction.** Is the project likely to improve employee morale, reducing turnover? 
+* **Employee productivity.** Will the project reduce employee’s overtime hours, saving the company money?
+* **Brand perception.** Is the project likely to improve the company’s brand perception and recognition, attracting more customers or providing a competitive advantage?
+
+**To determine intangible costs:**
+* Might the project put customer retention, employee satisfaction, or brand perception at risk?
+
 ## Glossary
 
 **Cross-functional team**: Team members who have different skill sets and may even work in different departments but are all working towards the successful completion of a project
@@ -142,3 +166,5 @@ A **Project Management Office**, or **PMO**, is a group within an organization t
 * Effective communication 
 
 **Stakeholder**: People who are interested in and affected by the project’s completion and success
+
+**Cost-benefit analysis** is the process of adding up the expected value of a project—the benefits—and comparing them to the dollar costs.
