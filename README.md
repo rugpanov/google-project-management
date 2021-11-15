@@ -130,6 +130,15 @@ A **Project Management Office**, or **PMO**, is a group within an organization t
 **Project governance** is the framework for how project decisions are made. Project governance helps keep projects running smoothly, on time, and within budget. It tells you what activities an organization does and who is responsible for those activities. Project governance covers policies, regulations, functions, processes, procedures, and responsibilities. 
 
 ## Initiate phase
+
+### 6 major factors
+1. Goals
+2. Scope
+3. Deliverables
+4. Success criteria
+5. Stakeholders
+6. Resources
+
 ### Questions for a cost-benefit analysis
 **To determine the benefits of a project:**
 * What value will this project create? 
