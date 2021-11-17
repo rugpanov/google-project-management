@@ -1,18 +1,22 @@
 # Foundations of Project Management
 [Link](https://www.coursera.org/learn/project-management-foundations) on Coursera
 
-   * [The project life cycle](#the-project-life-cycle)
-      * [Initiate the project](#initiate-the-project)
-      * [Make a plan](#make-a-plan)
-      * [Execute the project](#execute-the-project)
-      * [Close the project](#close-the-project)
-   * [Project management approaches](#project-management-approaches)
-   * [Organizational structures](#organizational-structures)
-      * [Project Management Office](#project-management-office)
-   * [Governance](#governance)
-      * [Corporate governance](#corporate-governance)
-      * [Project governance](#project-governance)
-   * [Glossary](#glossary)
+  * [The project life cycle](#the-project-life-cycle)
+    + [Initiate the project](#initiate-the-project)
+    + [Make a plan](#make-a-plan)
+    + [Execute the project](#execute-the-project)
+    + [Close the project](#close-the-project)
+  * [Project management approaches](#project-management-approaches)
+  * [Organizational structures](#organizational-structures)
+    + [Project Management Office](#project-management-office)
+  * [Governance](#governance)
+    + [Corporate governance](#corporate-governance)
+    + [Project governance](#project-governance)
+  * [Initiate phase](#initiate-phase)
+    + [6 major factors](#6-major-factors)
+    + [Questions for a cost-benefit analysis](#questions-for-a-cost-benefit-analysis)
+    + [OKR](#okr)
+  * [Glossary](#glossary)
 
 ## The project life cycle
 
