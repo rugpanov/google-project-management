@@ -188,3 +188,5 @@ Best practices:
 
 **Cost-benefit analysis** is the process of adding up the expected value of a project—the benefits—and comparing them to the dollar costs.
 **Return on investment (ROI) = (G - C) / C**, G - the financial gains you expect from the project, and C - the upfront and ongoing costs of your investment in the project.
+
+**Scope creep** is when a project’s work starts to grow beyond what was originally agreed upon during the initiation phase.
