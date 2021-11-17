@@ -162,6 +162,7 @@ A **Project Management Office**, or **PMO**, is a group within an organization t
 **To determine intangible costs:**
 * Might the project put customer retention, employee satisfaction, or brand perception at risk?
 
+### OKR
 **Objectives and key results (OKR)** - combines a goal and a metric to determine a measurable outcome. 
 Best practices:
 * Objectives should be motivational and inspiring and key results should be tactical and specific. The objective describes what you want to do and the key results describe how you’ll know you did it. 
