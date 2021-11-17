@@ -162,6 +162,7 @@ A **Project Management Office**, or **PMO**, is a group within an organization t
 **To determine intangible costs:**
 * Might the project put customer retention, employee satisfaction, or brand perception at risk?
 
+
 ## Glossary
 
 **Cross-functional team**: Team members who have different skill sets and may even work in different departments but are all working towards the successful completion of a project
@@ -178,3 +179,5 @@ A **Project Management Office**, or **PMO**, is a group within an organization t
 
 **Cost-benefit analysis** is the process of adding up the expected value of a project—the benefits—and comparing them to the dollar costs.
 **Return on investment (ROI) = (G - C) / C**, G - the financial gains you expect from the project, and C - the upfront and ongoing costs of your investment in the project.
+
+**Objectives and key results (OKR)** - combines a goal and a metric to determine a measurable outcome. 
