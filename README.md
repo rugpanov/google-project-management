@@ -162,6 +162,10 @@ A **Project Management Office**, or **PMO**, is a group within an organization t
 **To determine intangible costs:**
 * Might the project put customer retention, employee satisfaction, or brand perception at risk?
 
+**Objectives and key results (OKR)** - combines a goal and a metric to determine a measurable outcome. 
+Best practices:
+* Objectives should be motivational and inspiring and key results should be tactical and specific. The objective describes what you want to do and the key results describe how you’ll know you did it. 
+* 2–-3  key results for each objective.
 
 ## Glossary
 
@@ -179,5 +183,3 @@ A **Project Management Office**, or **PMO**, is a group within an organization t
 
 **Cost-benefit analysis** is the process of adding up the expected value of a project—the benefits—and comparing them to the dollar costs.
 **Return on investment (ROI) = (G - C) / C**, G - the financial gains you expect from the project, and C - the upfront and ongoing costs of your investment in the project.
-
-**Objectives and key results (OKR)** - combines a goal and a metric to determine a measurable outcome. 
