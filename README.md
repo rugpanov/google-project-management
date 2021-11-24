@@ -181,6 +181,11 @@ Best practices:
 * Learn how to say no
 * Collect costs for out-of-scope work
 
+### Project Management Triple Constraints
+* Scope
+* Time
+* Costs
+
 ## Glossary
 
 **Cross-functional team**: Team members who have different skill sets and may even work in different departments but are all working towards the successful completion of a project
