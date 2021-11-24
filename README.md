@@ -208,3 +208,7 @@ Best practices:
 **Lounch** is delivering the final result of your project ot the client or user.
 
 **Landing** is when project reaching the success point using success criteria established at the start of the project.
+
+**Adoption** - how the customer uses and adopts a product orservice without any issues.
+
+**Engagement** - how often ormeaningful customer interaction and participation is over time. 
