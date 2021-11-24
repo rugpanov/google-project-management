@@ -204,3 +204,7 @@ Best practices:
 **Return on investment (ROI) = (G - C) / C**, G - the financial gains you expect from the project, and C - the upfront and ongoing costs of your investment in the project.
 
 **Scope creep** is when a project’s work starts to grow beyond what was originally agreed upon during the initiation phase.
+
+**Lounch** is delivering the final result of your project ot the client or user.
+
+**Landing** is when project reaching the success point using success criteria established at the start of the project.
