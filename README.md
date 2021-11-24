@@ -172,6 +172,15 @@ Best practices:
 * Objectives should be motivational and inspiring and key results should be tactical and specific. The objective describes what you want to do and the key results describe how you’ll know you did it. 
 * 2–-3  key results for each objective.
 
+### Scope management best practices
+* Define your project’s requirements
+* Set a clear project schedule
+* Determine what is out of scope. Make sure your stakeholders, customers, and project team understand when proposed changes are out of scope
+* Provide alternatives
+* Set up a change control process
+* Learn how to say no
+* Collect costs for out-of-scope work
+
 ## Glossary
 
 **Cross-functional team**: Team members who have different skill sets and may even work in different departments but are all working towards the successful completion of a project
