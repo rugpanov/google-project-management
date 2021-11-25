@@ -186,6 +186,17 @@ Best practices:
 * Time
 * Costs
 
+
+### Project roles
+1. **The project manager** integrates all project work by developing the project management plan, directing the work, documenting reports, controlling change, and monitoring quality. Project managers are responsible for balancing the scope, schedule, and cost of a project by managing engagement with stakeholders. When managing engagement with stakeholders, project managers rely on strong communication skills, political and cultural awareness, negotiation, trust-building, and conflict management skills.
+2. **Stakeholders**
+ * **Primary (key) stakeholders** is directly affected by the outcome of the project. Usually include team members, senior leaders, and customers.
+ * **Secondary stakeholders** is indirectly affected by the outcome of the project. 
+3. **Project team members**
+4. **The project sponsor** is the person who is accountable for the project. They ensure the project delivers the agreed-upon value to the business. The project sponsor initiates the project and is responsible for presenting a business case for its existence, signing the project charter, and releasing resources to the project manager. 
+5. **Customer** == buyer.
+6. **Users** == end-users of the product.
+
 ## Glossary
 
 **Cross-functional team**: Team members who have different skill sets and may even work in different departments but are all working towards the successful completion of a project
