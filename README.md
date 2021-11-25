@@ -212,3 +212,5 @@ Best practices:
 **Adoption** - how the customer uses and adopts a product orservice without any issues.
 
 **Engagement** - how often ormeaningful customer interaction and participation is over time. 
+
+**Stakeholders** are people who are interested in and affected by the project's completion and success. 
