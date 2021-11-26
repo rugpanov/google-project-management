@@ -205,7 +205,13 @@ Best practices:
 **Power grid**  
 <img src="power_grid_2.png" alt="Power grid" width="700"/>
  
-You should always try to involve stackholders.
+You should always try to involve stackholders:  
+* What are your expectations for the project?
+* Where do you think I’ll get support? Meet resistance?
+* What can I clarify for you? Do you have concerns?
+* How would you like to be involved in this project?
+* Can you share any insights from your experience with customers?
+* etc.
 
 ## Glossary
 
