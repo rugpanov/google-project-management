@@ -202,8 +202,8 @@ Best practices:
 2. Determine the level of interest and influence for each stakeholder. The higher the level of interest and influence, the more important it will be to prioritize their needs throughout the project. 
 3. Find ways to involve stakeholders into project.
 
-**A power grid**  
-<img src="power_grid_2.svg" alt="Power grid" width="700"/>
+**Power grid**  
+<img src="power_grid_2.png" alt="Power grid" width="700"/>
  
 You should always try to involve stackholders.
 
