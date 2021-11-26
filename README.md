@@ -211,6 +211,10 @@ You should always try to involve stackholders:
 * What can I clarify for you? Do you have concerns?
 * How would you like to be involved in this project?
 * Can you share any insights from your experience with customers?
+* What are your most important priorities/goals?
+* What role would you like to play within this initiative/project?
+* Here’s how I plan to keep people informed; does that work for you?
+* What additional thoughts/questions do you have?
 * etc.
 
 ## Glossary
