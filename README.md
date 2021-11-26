@@ -197,6 +197,16 @@ Best practices:
 5. **Customer** == buyer.
 6. **Users** == end-users of the product.
 
+### Stakeholder analysis
+1. Make a list of project stakeholders
+2. Determine the level of interest and influence for each stakeholder. The higher the level of interest and influence, the more important it will be to prioritize their needs throughout the project. 
+3. Find ways to involve stakeholders into project.
+
+**A power grid**
+<img src="power_grid.svg" alt="Power grid" width="700"/>
+ 
+You should always try to involve stackholders.
+
 ## Glossary
 
 **Cross-functional team**: Team members who have different skill sets and may even work in different departments but are all working towards the successful completion of a project
