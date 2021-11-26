@@ -203,7 +203,7 @@ Best practices:
 3. Find ways to involve stakeholders into project.
 
 **A power grid**  
-<img src="power_grid.svg" alt="Power grid_2" width="700"/>
+<img src="power_grid_2.svg" alt="Power grid" width="700"/>
  
 You should always try to involve stackholders.
 
