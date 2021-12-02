@@ -186,7 +186,6 @@ Best practices:
 * Time
 * Costs
 
-
 ### Project roles
 1. **The project manager** integrates all project work by developing the project management plan, directing the work, documenting reports, controlling change, and monitoring quality. Project managers are responsible for balancing the scope, schedule, and cost of a project by managing engagement with stakeholders. When managing engagement with stakeholders, project managers rely on strong communication skills, political and cultural awareness, negotiation, trust-building, and conflict management skills.
 2. **Stakeholders**
@@ -216,6 +215,16 @@ You should always try to involve stackholders:
 * Here’s how I plan to keep people informed; does that work for you?
 * What additional thoughts/questions do you have?
 * etc.
+
+### Responsibility Assignment Matrix (RACI)
+It can help to define and document project roles and responsibilities, give direction to each team member and stakeholder, and ensure work gets done efficiently. 
+ 
+* R: Responsible: who gets the work done - who are actually doing the work to complete the task.
+* A: Accountable: who makes sure the work is done
+* C: Consulted: who gives input or feedback on work - has useful information to help complete the task.
+* I: Informed: who needs to know the outcome
+
+<img src="RACI.png" alt="RACI" width="700"/>
 
 ## Glossary
 
